@@ -33,7 +33,7 @@ export class WeatherComponent implements OnInit {
       document.body.style.backgroundImage = imageUrl;
     }
     else{
-      const imageUrl = `url('https://source.unsplash.com/1600x900/?delhi')`;
+      const imageUrl = `url('https://source.unsplash.com/1600x900/?mumbai')`;
       document.body.style.backgroundImage = imageUrl;
     }
     
